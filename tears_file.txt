@@ -1,0 +1,128 @@
+0, 0, 2, 0, 0:aback, again, avail, black, bland, blank, chaff, chain, chalk, champ, clack, claim, clamp, clang, clank, coach, flack, flail, flaky, flank, foamy, gland, guava, khaki, knack, koala, llama, loamy, piano, plaid, plain, plank, plaza, quack, quail, qualm, whack
+0, 1, 2, 0, 1:abase, chase, phase, scale, shade, shake, shale, shame, shape, shave, slave, snake, space, spade, suave, usage
+1, 1, 2, 0, 0:abate, agate, elate, enact, exact, exalt, ovate, plate
+0, 1, 1, 0, 0:abbey, abide, abled, abode, above, adobe, agile, ahead, algae, alien, alike, alive, alley, alone, amble, amend, ample, angel, angle, anime, ankle, annex, anode, apnea, apple, awoke, badge, bagel, bleak, cable, cache, cagey, camel, cameo, canoe, cheap, clean, dance, eagle, enema, equal, fable, gaffe, gauge, gauze, gavel, gleam, glean, halve, haven, hazel, hyena, ideal, knead, label, laden, ladle, lance, lapel, maize, mange, maple, mauve, maybe, naive, navel, oaken, ocean, omega, panel, payee, plead, vague, value, valve, waive, waxen
+1, 0, 1, 0, 0:abbot, about, admit, adopt, adult, afoot, allot, aloft, amity, antic, aptly, atoll, attic, audit, aunty, batch, baton, batty, bloat, cacti, caput, catch, catty, datum, daunt, faint, faith, fatal, fatty, fault, float, gamut, gaunt, gloat, habit, hatch, haunt, jaunt, junta, latch, match, natal, octal, paint, patch, patio, patty, quota, vault, vaunt, vital, waltz, watch, yacht
+0, 0, 1, 1, 0:abhor, acrid, apron, arbor, ardor, armor, aroma, array, arrow, augur, baron, borax, briar, broad, cargo, carol, cigar, circa, coral, croak, favor, foray, friar, groan, hardy, harpy, karma, labor, larva, lunar, major, manor, march, mayor, molar, moral, mural, nadir, organ, parka, polar, rabbi, rabid, radar, radii, radio, rainy, rajah, rally, ralph, ranch, randy, rapid, rayon, razor, rival, royal, rumba, rural, urban, valor, vapor, vicar, viral
+1, 0, 1, 2, 0:abort, ultra
+0, 1, 1, 0, 1:abuse, aisle, amuse, ashen, aside, askew, cause, easel, essay, false, lapse, masse, pause, salve, sauce, sneak, speak
+0, 0, 1, 0, 2:abyss, amiss, basis
+0, 0, 1, 2, 0:acorn, adorn, agora, angry, cairn, carry, cobra, dairy, fairy, flora, hairy, harry, macro, marry, parry, umbra
+1, 0, 1, 1, 0:actor, altar, aorta, carat, party, ratio, ratty, warty
+1, 1, 1, 0, 0:acute, adept, agent, atone, bathe, bleat, cadet, cheat, cleat, eaten, eclat, facet, haute, lathe, latte, matey, pleat, valet, wheat
+0, 1, 2, 0, 0:adage, agape, amaze, awake, blade, blame, blaze, chafe, email, evade, flake, flame, glade, glaze, image, inane, knave, place, plane, quake, whale
+1, 0, 2, 0, 0:adapt, await, chant, giant, loath, plait, plant
+0, 0, 1, 0, 0:admin, affix, afoul, aging, aglow, agony, album, alibi, align, allay, allow, alloy, along, aloof, aloud, alpha, among, amply, annoy, annul, anvil, aphid, aping, apply, audio, avian, avoid, awful, axial, axiom, axion, bacon, badly, baggy, balmy, banal, banjo, bawdy, bayou, bylaw, cabal, cabby, cabin, cacao, caddy, canal, candy, canny, canon, caulk, cavil, china, cloak, cocoa, comma, daddy, daily, dally, dandy, dogma, fancy, fanny, fauna, final, focal, gaily, gamma, gaudy, gawky, gayly, gonad, handy, happy, havoc, human, iliac, inlay, jazzy, kappa, kayak, lanky, laugh, lilac, local, loyal, macaw, macho, madam, madly, mafia, magic, magma, mambo, mamma, mammy, manga, mango, mangy, mania, manic, manly, maxim, mocha, modal, nanny, naval, ninja, nomad, offal, paddy, pagan, panic, papal, pizza, polka, pupal, valid, vapid, villa, viola, vocal, vodka, voila, wacky, wagon, woman, zonal
+0, 1, 1, 2, 0:adore, afire, azure, opera
+1, 1, 1, 1, 0:after, alter, cater, earth, eater, great, hater, later, water
+0, 1, 1, 1, 0:agree, aider, amber, anger, arena, argue, baker, baler, barge, bread, break, caper, carve, clear, creak, cream, dread, dream, eager, early, farce, freak, gamer, gayer, gazer, harem, lager, large, layer, maker, paler, paper, parer, payer, racer, ramen, range, rarer, raven, wafer, wager, waver, wreak
+0, 0, 2, 2, 0:alarm, award, board, chard, charm, diary, dwarf, guard, hoard, ovary, quark, wharf
+1, 1, 1, 2, 0:alert, avert, extra
+0, 0, 2, 0, 2:amass, chaos, class, glass
+1, 0, 1, 0, 1:angst, ascot, hasty, nasty, pasta, pasty, patsy, saint, salty, satin, splat, squat, vista, waist
+1, 0, 2, 2, 0:apart, chart, quart
+0, 1, 1, 1, 1:arise, arose, parse, raise, safer, saner, shear, smear, spear, swear
+0, 0, 1, 1, 1:arson, harsh, marsh, raspy, savor, scram, scrap, solar, sonar, spray, sugar
+1, 0, 1, 1, 1:artsy, satyr, strap, straw, stray
+0, 0, 1, 0, 1:assay, basal, basic, basil, basin, daisy, gassy, lasso, mason, nasal, palsy, pansy, sadly, salad, sally, salon, salsa, salvo, sandy, sappy, sassy, saucy, sauna, savoy, savvy, scuba, shoal, sigma, squad, sumac, usual
+1, 1, 1, 0, 1:asset, baste, caste, haste, paste, saute, stead, steak, steal, steam, sweat, waste
+0, 1, 2, 2, 0:aware, blare, flare, glare
+0, 0, 2, 0, 1:awash, chasm, clash, clasp, flash, flask, gnash, psalm, quash, quasi, scald, scalp, scaly, scamp, shack, shady, shaky, shall, shank, shawl, slack, slain, slang, slash, smack, small, smash, snack, snail, snaky, soapy, spank, spasm, spawn, swami, swamp, swash
+0, 2, 2, 0, 0:beach, beady, heady, heave, heavy, leach, leafy, leaky, leave, mealy, peace, peach, weave
+0, 2, 2, 2, 0:beard, heard, learn, pearl, rearm, weary, yearn
+1, 2, 2, 0, 1:beast, feast, least, yeast
+0, 2, 0, 0, 0:beech, beefy, begin, begun, being, belch, belie, belle, belly, below, bench, bevel, bezel, cello, debug, decoy, deign, delve, demon, denim, deuce, devil, feign, felon, femme, fence, gecko, geeky, genie, hedge, helix, hello, hence, jelly, jewel, ledge, leech, leggy, lemon, level, medic, melee, melon, needy, neigh, newly, pence, penne, penny, venom, venue, wedge, weedy, weigh, welch, wench
+1, 2, 0, 0, 0:befit, beget, betel, debit, debut, deity, depot, depth, detox, fetch, fetid, hefty, jetty, lefty, petty
+0, 2, 1, 0, 0:began, decal, decay, delay, fecal, fella, kebab, legal, mecca, medal, media, pecan, pedal, penal, vegan
+1, 2, 1, 0, 0:begat, delta, fetal, metal, petal
+1, 2, 0, 1, 0:beret, berth, deter, merit, meter, rebut, recut, refit, remit, retch
+0, 2, 0, 2, 0:berry, decry, ferry, genre, leery, merry, weird
+1, 2, 0, 0, 1:beset, heist, pesto, setup, zesty
+0, 1, 0, 0, 0:bible, bicep, bilge, binge, biome, bleed, bleep, blend, bloke, boney, booze, boule, bowel, budge, bugle, bulge, check, cheek, chide, chief, chime, choke, clone, clove, clued, coupe, coven, covey, cycle, dicey, diode, dodge, dopey, dowel, dozen, dunce, dwell, ebony, edify, eking, elbow, elegy, elfin, elide, elope, elude, embed, emcee, endow, enemy, enjoy, ennui, envoy, epoch, epoxy, equip, evoke, excel, exile, expel, eying, field, fiend, fleck, fluke, flume, fudge, fugue, given, glide, globe, glove, gnome, golem, gooey, gouge, guide, guile, hinge, honey, hovel, hymen, imbue, impel, index, judge, juice, kneed, kneel, knife, libel, liege, liken, linen, lodge, lumen, lunge, midge, mince, model, modem, money, movie, niche, niece, noble, novel, nudge, olden, olive, opine, ounce, ovine, oxide, ozone, phone, piece, piney, pique, pixel, pixie, plied, plume, queen, quell, queue, uncle, undue, unfed, unwed, video, vixen, vogue, voice, vowel, wheel, whelp, while, whine, whole, widen, wield, wince, woken, women, woven, yield
+0, 0, 0, 0, 0:biddy, billy, bingo, blimp, blind, blink, block, blond, blood, bloom, blown, bluff, bobby, bongo, booby, boozy, bough, bound, buddy, buggy, build, bulky, bully, bunch, bunny, buxom, chick, child, chili, chill, chock, chuck, chump, chunk, cinch, civic, civil, click, cliff, climb, cling, clink, clock, cloud, clown, cluck, clump, clung, colon, comfy, comic, conch, condo, conic, couch, cough, could, coyly, cubic, cumin, cynic, dilly, dimly, dingo, dingy, dizzy, dodgy, doing, dolly, dough, dowdy, downy, duchy, dully, dummy, dumpy, dying, filly, filmy, finch, fizzy, flick, fling, flock, flood, flown, fluff, fluid, flung, flunk, foggy, folio, folly, found, fully, fungi, funky, funny, fuzzy, ghoul, giddy, gloom, glyph, godly, going, golly, goody, goofy, guild, gulch, gully, gumbo, gummy, guppy, hilly, hippo, hippy, hobby, holly, hound, howdy, humid, humph, hunch, hunky, icily, icing, idiom, idyll, igloo, imply, inbox, ionic, jiffy, jolly, juicy, jumbo, jumpy, kinky, knock, knoll, known, limbo, lingo, lipid, livid, lobby, logic, login, loopy, lowly, lucid, lucky, lumpy, lunch, lying, lymph, lynch, milky, mimic, minim, mogul, moldy, moody, mound, mucky, muddy, mulch, mummy, munch, ninny, nobly, nylon, nymph, oddly, onion, opium, ovoid, owing, phony, picky, piggy, pinch, pinky, pluck, plumb, plump, plunk, polyp, pooch, poppy, pouch, pound, pubic, pudgy, puffy, pulpy, punch, pupil, puppy, pygmy, quick, quill, undid, unify, union, unzip, vigil, vinyl, vivid, vouch, vying, which, whiff, whiny, whoop, widow, willy, wimpy, winch, windy, woody, wooly, woozy, would, wound, young
+1, 0, 0, 0, 0:bigot, bitty, blitz, blunt, booth, booty, botch, built, butch, cloth, clout, count, digit, ditch, ditto, ditty, donut, doubt, dutch, fifth, fifty, fight, filth, flint, flout, glint, guilt, hitch, hotly, hutch, idiot, ingot, input, itchy, joint, junto, kitty, light, limit, lofty, might, minty, month, motif, motto, moult, mount, mouth, night, ninth, notch, nutty, optic, ought, outdo, outgo, photo, pilot, pinto, pitch, pithy, pivot, point, pouty, putty, quilt, quoth, uncut, unfit, unity, unlit, until, vomit, width, wight, witch, witty, youth
+0, 0, 0, 1, 0:birch, brick, bring, brink, briny, broil, brood, brook, broom, brown, burly, choir, color, corny, crick, crimp, crock, crony, crook, croup, crowd, crown, crumb, crump, curio, curly, curvy, donor, drill, drink, droll, drool, droop, drown, druid, drunk, dryly, floor, flour, forgo, forum, frill, frock, frond, frown, furor, girly, grill, grimy, grind, groin, groom, group, growl, grown, gruff, honor, horny, humor, incur, irony, juror, krill, lurch, lurid, lyric, minor, moron, morph, murky, occur, porch, prick, primo, prior, privy, prong, proof, proud, prowl, proxy, rhino, rigid, rigor, robin, rocky, roomy, rough, round, rowdy, ruddy, rugby, rumor, vigor, wordy, world, wring, wrong, wrung, wryly
+1, 0, 0, 1, 0:birth, broth, brunt, burnt, crypt, dirty, drift, droit, forth, forty, fritz, front, froth, fruit, girth, grout, grunt, mirth, motor, north, orbit, print, right, robot, rotor, worth
+0, 0, 0, 0, 1:bison, blush, bosom, bossy, bushy, disco, dusky, fishy, flush, fussy, gipsy, gypsy, husky, hussy, kiosk, lousy, missy, mossy, mushy, music, musky, noisy, plush, pushy, scion, scoff, scold, scoop, scowl, shiny, shock, shook, shown, showy, shuck, shush, shyly, silky, silly, sissy, skiff, skill, skimp, skulk, skull, skunk, slick, slimy, sling, slink, sloop, slosh, slump, slung, slunk, slush, slyly, smock, smoky, sniff, snoop, snowy, snuck, snuff, soggy, solid, sonic, sound, spicy, spiky, spill, spiny, spoil, spoof, spook, spool, spoon, spunk, squib, suing, sulky, sully, sunny, sushi, swill, swing, swish, swoon, swoop, swung, synod, using, whisk, wispy
+1, 0, 2, 0, 1:blast, boast, coast, scant, shaft, shalt, slant, stack, staff, staid, stain, stalk, stall, stamp, stand, stank, stash, swath
+0, 1, 0, 0, 2:bless, chess, guess
+0, 0, 0, 0, 2:bliss, bonus, ficus, floss, focus, gloss, humus, locus, lupus, minus, mucus
+0, 1, 0, 1, 0:bluer, borne, boxer, breed, bribe, bride, brief, brine, broke, buyer, cheer, cider, corer, cover, cower, credo, creed, creek, creep, creme, crepe, cried, crier, crime, crone, crude, cruel, curve, cyber, diner, dirge, diver, dried, drier, drive, drone, drove, dryer, elder, ember, erode, error, fiber, filer, finer, fixer, flier, flyer, force, forge, foyer, freed, freer, fried, froze, giver, goner, gorge, greed, green, grief, grime, gripe, grope, grove, gruel, homer, horde, hover, hyper, idler, infer, inner, joker, liner, liver, lover, lower, miner, mover, mower, nicer, odder, offer, older, order, owner, piper, plier, poker, power, preen, price, pride, pried, prime, prize, probe, prone, prove, prude, prune, puree, purer, purge, queer, rhyme, rider, ridge, rifle, ripen, riper, river, rodeo, roger, rogue, rouge, rover, rower, ruder, ruler, rupee, udder, ulcer, under, upper, urine, viper, wider, wooer, wreck
+0, 0, 0, 2, 0:blurb, chirp, chord, churn, curry, dowry, fjord, furry, glory, gourd, hurry, hydro, ivory, lorry, micro, mourn, myrrh, quirk, whirl, worry
+1, 0, 0, 2, 0:blurt, court, flirt, intro
+1, 0, 0, 0, 1:boost, dusty, foist, ghost, gusto, gusty, hoist, joist, joust, lusty, midst, moist, musty, posit, scout, shift, shoot, shout, shunt, sight, sixth, sixty, sloth, smith, snout, sooth, sooty, south, spilt, split, spout, stick, stiff, still, stilt, sting, stink, stint, stock, stoic, stomp, stony, stood, stool, stoop, stout, stuck, study, stuff, stump, stung, stunk, stunt, swift, visit
+0, 1, 2, 1, 0:brace, brake, brave, crane, crave, craze, drake, drape, frame, grace, grade, grape, grave, graze
+0, 0, 2, 1, 0:braid, brain, brand, bravo, brawl, brawn, chair, crack, cramp, crank, crawl, crazy, drain, drama, drank, drawl, drawn, flair, frail, frank, fraud, grail, grain, grand, graph, gravy, prank, prawn, roach, wrack
+0, 0, 2, 1, 1:brash, crash, grasp
+0, 0, 2, 1, 2:brass, crass, grass
+0, 0, 0, 1, 1:brisk, brush, crisp, crush, frisk, prism, risky, scour, scrub, scrum, shrub, shrug, sprig, surly, syrup, visor
+1, 1, 0, 1, 0:brute, crept, egret, enter, erect, erupt, ether, forte, greet, inter, other, otter, outer, rivet, route, utter, voter, write, wrote
+1, 0, 0, 1, 1:burst, crust, first, frost, roost, rusty, strip, strut, worst, wrist
+0, 1, 0, 0, 1:bused, chose, close, copse, ensue, flesh, goose, guise, house, issue, loose, louse, moose, mouse, noise, noose, nosey, obese, poesy, poise, posse, pulse, scene, scone, scope, sheen, sheep, sheik, shelf, shell, shied, shine, shone, shove, siege, sieve, since, sinew, singe, sleek, sleep, slice, slide, slime, slope, smell, smile, smoke, snide, snipe, solve, speck, speed, spell, spend, spice, spied, spiel, spike, spine, spoke, sweep, swell, swine, whose
+1, 1, 0, 0, 0:butte, chute, cleft, comet, covet, cutie, duvet, dwelt, edict, eight, eject, elect, elite, empty, ethic, etude, event, evict, extol, exult, filet, fleet, flute, hotel, inept, inlet, knelt, lithe, motel, octet, often, piety, quiet, quite, quote, unite, unmet, untie, utile, white
+0, 2, 2, 0, 1:cease, lease, leash
+0, 2, 1, 1, 0:cedar, debar, feral, rebar, recap, regal, rehab, relax, relay, renal, repay
+1, 1, 0, 0, 1:chest, exist, guest, islet, onset, quest, scent, sheet, sleet, slept, smelt, smite, smote, spelt, spent, spite, steed, steel, steep, stein, stoke, stole, stone, stove, style, suite, sweet, swept, unset, upset
+0, 1, 0, 2, 0:chore, clerk, every, fibre, fiery, ombre, query, where
+1, 0, 2, 1, 0:craft, draft, graft, grant, wrath
+1, 1, 2, 1, 0:crate, grate, irate
+0, 1, 0, 1, 2:cress, dress, press
+1, 1, 0, 1, 1:crest, ester, steer, wrest
+0, 0, 0, 1, 2:cross, dross, gross, virus
+0, 1, 0, 1, 1:curse, fresh, horse, loser, miser, nurse, poser, prose, purse, rinse, risen, riser, rouse, scree, screw, sheer, shrew, siren, skier, sneer, sober, sower, spree, super, surer, surge, usher, wiser, worse
+1, 2, 2, 0, 0:dealt, death, heath, leant, leapt, meant, meaty
+0, 2, 0, 1, 0:decor, defer, demur, derby, eerie, femur, fever, fewer, heron, jerky, lemur, leper, lever, mercy, merge, nerdy, nerve, never, newer, perch, peril, perky, rebel, recur, reedy, refer, reign, relic, renew, repel, reply, rerun, revel, revue, verge, verve
+0, 2, 0, 0, 1:dense, geese, pesky, seedy, segue, seize, semen, sense, seven, welsh
+1, 1, 0, 2, 0:entry, exert, inert, overt
+0, 1, 2, 1, 1:erase
+1, 1, 0, 0, 2:ethos
+1, 2, 0, 0, 2:fetus
+1, 2, 2, 2, 0:heart
+1, 2, 0, 2, 0:metro, retro, retry
+0, 2, 2, 1, 0:reach, ready, realm
+1, 2, 2, 1, 0:react
+0, 2, 0, 1, 2:rebus
+1, 2, 0, 1, 1:reset
+0, 2, 0, 1, 1:resin, reuse, serif, serum, serve, sever, sewer, verse, verso
+1, 0, 2, 1, 1:roast, stair
+0, 1, 2, 2, 1:scare, share, snare, spare
+0, 0, 2, 2, 1:scarf, scary, shard, shark, sharp, snarl, spark, swarm
+0, 1, 0, 2, 1:score, shire, shore, snore, sperm, spire, spore, swore
+0, 0, 0, 2, 1:scorn, shirk, shorn, slurp, smirk, sorry, spurn, swirl, sword, sworn, usurp
+0, 2, 1, 0, 1:sedan, sepia
+1, 0, 0, 2, 1:shirt, short, skirt, snort, sport, spurt, stork, storm, story
+1, 1, 2, 0, 1:skate, slate, stage, stake, stale, state, stave
+1, 0, 2, 2, 1:smart, stark, start
+1, 1, 2, 2, 1:stare
+1, 1, 0, 2, 1:stern, store
+2, 0, 1, 0, 0:tabby, taboo, tacit, tacky, taffy, taint, tally, talon, tango, tangy, tatty, taunt, tawny, tibia, tidal, titan, today, tonal, tonga, topaz, total, tubal
+2, 1, 1, 0, 0:table, taken, theta, tweak
+2, 1, 1, 1, 0:taker, tamer, taper, tread, treat
+2, 0, 1, 1, 0:tapir, tardy, tarot, triad, trial
+2, 1, 1, 0, 1:taste
+2, 0, 1, 0, 1:tasty
+2, 2, 2, 0, 0:teach
+2, 2, 2, 2, 0:teary
+2, 2, 2, 0, 1:tease
+2, 2, 0, 0, 0:teddy, teeth, tempo, tenet, tenth, tepee, tepid
+2, 2, 0, 1, 0:tenor
+2, 2, 0, 0, 1:tense, testy
+2, 2, 1, 2, 0:terra
+2, 2, 0, 1, 1:terse
+2, 0, 2, 0, 0:thank, twang
+2, 1, 0, 0, 0:theft, theme, thief, thyme, tilde, tithe, title, token, totem, towel, tulle, tweed, tweet, twice, twine
+2, 1, 0, 1, 0:their, three, threw, tiger, timer, tower, trend, tribe, trice, tried, tripe, trite, trope, trove, truce, truer, tuber
+2, 1, 0, 2, 0:there
+2, 1, 0, 0, 1:these, those
+2, 0, 0, 0, 0:thick, thigh, thing, think, thong, thumb, thump, tight, timid, toddy, tonic, tooth, topic, touch, tough, toxic, toxin, tulip, tunic, twixt, tying
+2, 0, 0, 2, 0:third, thorn, twirl
+2, 0, 0, 1, 0:throb, throw, thrum, torch, trick, troll, troop, trout, truck, truly, trump, trunk, truth, tumor, turbo, tutor
+2, 0, 2, 2, 0:tiara
+2, 0, 0, 0, 1:tipsy, twist
+2, 0, 2, 0, 1:toast
+2, 0, 0, 1, 1:torso, trust, tryst
+2, 0, 0, 1, 2:torus, truss
+2, 1, 2, 1, 0:trace, trade
+2, 0, 2, 1, 0:track, tract, trail, train, trait, tramp, trawl
+2, 0, 2, 1, 1:trash
+0, 2, 1, 2, 0:zebra
